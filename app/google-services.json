@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "504278399027",
+    "firebase_url": "https://contacts-manager-3ee5b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "contacts-manager-3ee5b",
+    "storage_bucket": "contacts-manager-3ee5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504278399027:android:bd4f3ae7c5cb78892b0b46",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-lD-gQPlErc7FS9VOBfYVHAQ20eLSd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
